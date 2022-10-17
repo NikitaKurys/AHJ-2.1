@@ -39,4 +39,4 @@ Copyright gfycat.com
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1r3p9o9f0tf8471t/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-2-1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/qm6js3r9hw3idvhq/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-2-1/branch/main)
